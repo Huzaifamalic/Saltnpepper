@@ -238,6 +238,7 @@ color: var(--white);
 .footer-img{
    width:140px ;
    height:  64px ;
+   background-image: url("./assets/home/bimg2.webp");
 }
 .footer-para{
     font-size: 15px;
@@ -330,15 +331,38 @@ font-size: 32px;
 /*publication area end */
 
 /* feedback area start  */
-input{
+
+.feedback-input{
+
+    margin: 6px 12px;
+    padding:  10px 50px 0px 0px;
     background-color: var(--white);
     color: var(--black);
-    padding: 10px 10px 0px 100px;
-    
+    width: 500px;
+   
+}
+.lable{
+    margin-left: 30px;
 }
 .branch-btn{
     border-radius: 40px;
     background-color: var(--red);
     color: var(--white);
     padding: 20px;
+    
 }
+/* feedback area end  */
+
+
+/* frenchise area start  */
+
+.frenchchise-inpout{
+    margin-left: 30px;
+}
+/* frenchise area end  */
+
+/* Manu  area start  */
+
+
+
+/* Manu  area end  */
