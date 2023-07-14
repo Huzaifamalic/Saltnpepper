@@ -316,13 +316,16 @@ margin-bottom: 30px;
 
 
 /*publication area start */
+.book{
+    width: 800px;
+}
 .book-img{
     width: 538px;
     height: 496px;
 }
 .book-img:hover{
     transition-duration: 500ms;
-    transform: scale(1.3);
+    transform: scale(1.1);
 }
 .book-div{
     background-color: transparent;
